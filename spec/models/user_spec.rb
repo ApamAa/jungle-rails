@@ -10,6 +10,7 @@ RSpec.describe User, type: :model do
     end
   end
 
+  
   context "password don't match" do
     user = User.new(email: 'test@test.com', password: 'hogehoge', password_confirmation: 'hoge')
     user.valid?
