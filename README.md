@@ -35,6 +35,5 @@ https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.34.31.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.36.57.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.37.14.png
-Screenshot 2020-02-11 22.37.25.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.37.25.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.39.43.png
