@@ -28,7 +28,6 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 
 
 Final Product
-https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-07%2001.17.10.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-07%2001.23.58.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.33.15.png
 https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.34.08.png
