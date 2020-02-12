@@ -25,3 +25,14 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+
+
+Final Product
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-07%2001.23.58.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.33.15.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.34.08.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.34.31.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.36.57.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.37.14.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.37.25.png
+https://github.com/ApamAa/jungle-rails/blob/master/docs/Screenshot%202020-02-11%2022.39.43.png
